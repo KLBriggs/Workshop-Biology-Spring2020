@@ -1,0 +1,21 @@
+---
+title: 'Calcium carbonate precipitation in Everglades periphyton: ecosystem drivers
+  and consequences for a microbial process'
+author: "Kristin L. Briggs"
+date: "1/10/2020"
+output:
+  html_document: default
+  pdf_document: default
+---
+# Research Statement
+ Calcareous microbial mats are a ‘foundational’ microalgal community in karstic aquatic ecosystems. They are dominated by cyanobacteria, which sequester large amounts of carbon dioxide into organic matter and precipitate calcium carbonate, and thereby fuel food webs, regulate carbon fluxes, and build marl soils. The widespread precipitation of CaCO3 is key to periphyton mat functioning, and more broadly, is an essential process in our geological history which built soils, sedimentary rock, along with other important functions, yet the mechanisms driving precipitation are not well understood. Since CaCO3 precipitation is influenced by water chemistry and hydrology, it is imperative to understand how changes in these conditions will influence the system’s carbon sequestration and storage. The Everglades’ water flow is heavily managed and large-scale modifications are ongoing to restore some pre-drainage flow to improve ecosystem functioning and ecological integrity, but the impacts of these efforts are still being studied. Evaluating how CaCO3 content is influenced by hydrological may help elucidate drivers of carbonate precipitation and suggest consequences of hydrologic shifts on carbon sequestration. My hypothesis is that shallower waters and shorter hydroperiods encourage more accumulation/precipitation of calcium carbonate.  
+ 
+# Methods  
+Regression analyses to evaluate how hydrological variables predict periphyton inorganic carbon content (a proxy for calcium carbonate content): water depth (in situ) vs. inorganic carbon, hydroperiod vs. inorganic carbon, average water depth (from EDEN) vs. inorganic carbon, and more. I could then compare models to see which predicts calcium carbonate content best, and/or include other variables in a multivariate analyses, such as total phosphorus, … Furthermore, the plots are divided into different Everglades basins which feature varying conditions, so pooling all the samples on the regression may confound the analysis, (e.g. LOX, TRS) so I may also the basins separately (or using a ‘nested’ or block approach?) to discern how the ‘basin’ impacts the regression/model. More tests to consider!  
+ 
+ 
+# Data 
+Using two datasets: 1) Samples and data collected annually for the Comprehensive Everglades Restoration Plan (CERP MAP) from approximately 130 sites across the Everglades landscape. Includes: periphyton and water samples analyzed in the lab for nutrients, biomass, community composition, and more; ecosystem parameters measured in the field like water depth and soil type.  2) Data from Everglades Depth Estimation Network (EDEN) for estimates of hydroperiods, average water depths, and more.  
+
+
+  
